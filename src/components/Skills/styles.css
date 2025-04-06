@@ -1,0 +1,16 @@
+.skills-section {
+    padding: 20px;
+    background-color: #f0ffe5;
+    border-radius: 12px;
+    margin: 20px;
+  }
+  
+  .skills-category {
+    margin-bottom: 20px;
+  }
+  
+  .skills-category ul {
+    list-style-type: circle;
+    margin-left: 20px;
+  }
+  

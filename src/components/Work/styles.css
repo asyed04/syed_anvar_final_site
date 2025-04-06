@@ -1,0 +1,26 @@
+.work-section {
+    padding: 20px;
+    background-color: #eef;
+    border-radius: 12px;
+    margin: 20px;
+  }
+  
+  .project {
+    margin-bottom: 20px;
+    padding: 10px;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
+  .project img {
+    width: 200px;
+    height: auto;
+    border-radius: 6px;
+  }
+  
+  .project ul {
+    list-style-type: square;
+    margin-left: 20px;
+  }
+  
